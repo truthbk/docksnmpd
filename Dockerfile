@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     procps \
     fakeroot \
+    file \
     git \
     build-essential
 
